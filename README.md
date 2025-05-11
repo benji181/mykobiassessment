@@ -66,20 +66,5 @@ The app simulates API behavior by loading transaction data from a local JSON fil
 - Refund functionality with UI and status change.
 - Returning to summary page to confirm persistent update.
 
-## ✂️ Shortcuts Taken
-
-- Used `DropdownButton` for month filtering instead of `TabBar` due to time constraints.
-- Static JSON simulates API (e.g., Mocki.io not used).
-- No confirmation dialog before refunding (could enhance UX).
-- Static Netflix logo used (dynamic merchant logos not implemented).
-
-## 🌱 Future Improvements
-
-- Replace dropdown with a TabBar.
-- Add refund confirmation dialog.
-- Integrate real mock API for dynamic content.
-- Support multiple merchant logos based on transaction data.
-
----
 
 **Demo Video**: [assets/demoVideo.mp4]
