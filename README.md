@@ -13,8 +13,8 @@ This Flutter application is a transaction management tool that simulates Netflix
 
 2. **Clone the Repository**
    ```bash
-   git clone <your-repo-url>
-   cd transaction-app
+   git clone <(https://github.com/benji181/mykobiassessment.git)>
+   cd lib
    ```
 
 3. **Install Dependencies**
