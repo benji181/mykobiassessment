@@ -58,7 +58,7 @@ The app simulates API behavior by loading transaction data from a local JSON fil
 
 ## 🎥 Demo Video
 
-> **Loom Video Link**: [assets/demoVideo.mp4]
+> ** Video Link**: [assets/demoVideo.mp4]
 
 ### What’s shown in the video:
 - Transaction list loads with animations.
@@ -82,5 +82,4 @@ The app simulates API behavior by loading transaction data from a local JSON fil
 
 ---
 
-**GitHub Repo**: [Insert your repo link]  
 **Demo Video**: [assets/demoVideo.mp4]
