@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "merchant": "Netflix",
+    "amount": -7.99,
+    "category": "Entertainment",
+    "date": "2025-05-11T20:24:00",
+    "status": "Completed",
+    "payment_method": "Credit Card",
+    "icon": "assets/N.png"
+  },
+  {
+    "id": 2,
+    "merchant": "Netflix",
+    "amount": -32.45,
+    "category": "Entertainment",
+    "date": "2025-05-10T10:54:00",
+    "status": "Completed",
+    "payment_method": "Credit Card",
+    "icon": "assets/N.png"
+  },
+  {
+    "id": 3,
+    "merchant": "Netflix",
+    "amount": -23.56,
+    "category": "Entertainment",
+    "date": "2025-05-12T17:04:00",
+    "status": "Pending",
+    "payment_method": "Credit Card",
+    "icon": "assets/N.png"
+  },
+  {
+    "id": 4,
+    "merchant": "Netflix",
+    "amount": -199.9,
+    "category": "Subscription",
+    "date": "2025-05-01T14:30:00",
+    "status": "Completed",
+    "payment_method": "Debit Card",
+    "icon": "assets/N.png"
+  },
+  {
+    "id": 5,
+    "merchant": "Netflix",
+    "amount": -624.0,
+    "category": "Premium Content",
+    "date": "2025-05-05T09:15:00",
+    "status": "Completed",
+    "payment_method": "PayPal",
+    "icon": "assets/N.png"
+  }
+]
